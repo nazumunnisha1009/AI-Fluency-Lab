@@ -1,0 +1,14 @@
+{
+    "student": "Nazumun Nisha",
+    "subjects": {
+        "Python": 70,
+        "SQL": 60,
+        "Java": 45,
+        "DSA": 35
+    },
+    "pending_tasks": [
+        "Complete DSA Array practice",
+        "Complete SQL constraints practice",
+        "Submit Python assignment"
+    ]
+}
